@@ -26,7 +26,7 @@ This mobile application helps investors calculate their Unit Trust dividends eff
 > | <img width="338" height="738" alt="Screenshot 2025-12-06 131458" src="https://github.com/user-attachments/assets/da074c09-9079-4409-ac47-767631ffa2c6" />
 > |
 
-> **Note:** The screenshots above demonstrate the user interface and the calculation result for an investment example.
+> **Note:** The screenshots above demonstrate the user interface for an investment example.
 
 ---
 
@@ -40,7 +40,7 @@ This app follows the standard formula provided in the lab requirement:
 <img width="341" height="744" alt="Screenshot 2025-12-06 131653" src="https://github.com/user-attachments/assets/7ab3fe7c-9381-4720-8343-885caf61f980" />
 <img width="335" height="741" alt="Screenshot 2025-12-06 131739" src="https://github.com/user-attachments/assets/543d386f-a651-4cc8-be1d-6735ae5a7c91" />
 
-
+> **Note:** The screenshots above demonstrate the Calculation for an investment example.
 
 ---
 
